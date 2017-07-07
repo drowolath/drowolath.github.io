@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/drowolath
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thomas.ayih-akakpo.org
+  * I am drowolath (https://keybase.io/drowolath) on keybase.
+  * I have a public key with fingerprint 358C BF75 C63D 9915 8AA8  3089 D7E9 2742 22C7 D4D2
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012040c9a94e15e8f59a97fb1088a621cd73f58c26ff01ebadb58e676bfcafcf2be90a",
+            "fingerprint": "358cbf75c63d99158aa83089d7e9274222c7d4d2",
+            "host": "keybase.io",
+            "key_id": "d7e9274222c7d4d2",
+            "kid": "0101ed3addc99449e38927fc8b884f67f2639857c6ffa3425c7205bf6556e9805e1d0a",
+            "uid": "e3baf5d045eb80917d70104544519519",
+            "username": "drowolath"
+        },
+        "service": {
+            "hostname": "thomas.ayih-akakpo.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499419464,
+    "expire_in": 157680000,
+    "prev": "9d50179f9f7c799ebd6be3f11cfd7173b65e96a5c27abef413b35c62e7d7a88a",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMN8AnicbZJ7UFRVHMd3402RFG7tjOCMF4twCO/7gdrwEIOhSZMmZcSW+zh398Ky
+d9m9sCBQGBSiAfnYsbFCwwYf26wW4/CIMWHITR1SHlnkJDCTNFgiEVBjE3Quo/91
+58zce898v5/z/f3Orz8qyBBp/GEqIR0JjAwZr/W2lhryLLlZlYigShVISiVSBJZf
+wC4Bt2YpUiQkBUExHCVRkeM5EmAUYGUKfjKygKEsy9M4JkoMIVOsiNOyjGJA4CWB
+YgHN0IIs8rIo4wLgUB5JQmTFYQUup0txaBBLQIsgM5RIExLHYRTL8yyBspzEAA5n
+SBzHRUYiJRwabapbd8BwAu8GyYoK9+CPZTne/+gf5YZpJIKXJJHjSJIDBAuFssgK
+LEvKNCPjNMGxFCPC3DxB4pTI4CglyDRF0YBjUQpg0nLu0mUcIARepiSUpIDAohzG
+SAw8gaRIksI4uHShG7gcfDHQU7lUj2rnNRtSnYTA7TJFBHpn9VIeSjSbWsy7k/kK
+xfYiX8QXOdVk1WWFGKdL1VRRtUONTdOcKTpCq3DqHg8QLA9pFkFxSLCj0FAGXG5F
+dSApGFSKmqLjMRIWjXEkTSYhoNypuIBF0RUUQ7MofPRjQBlEchKFYgwnczIjMhwH
+BIkWACFjmChLDMYQAk0BjuYpEWd4AcgkRggEvDQcwAbwcAIQvb4ShwrZEKrxVsh0
+K1YHr5W6AFLd15sfbDBGGkJDHtNHzRAZEf1oAC8lrFh8IeTYdGzaQvCrh7S+tY1V
+X9yK2XA7qiGrRRkux3Je7juOb/ykc//XDZl3m54IlMwdaea+91RfSwu/+87EX/NN
+2+RWEunHjOa23ldmps5h62NXhNTH9p9Iv/Hs9ODu4301p+5M+gJteKxYt0Amt/0T
+ejrLio8HzkTtw95OvfDHk7/2mLPNhaMPDmUGrbWc3bd7Z4e6GevYvKd5JjqxMsd4
+4cFwQsbq4qKd1BvP+RuUU3/7IyzRi3ZP3s8xB7vVm/6YocvhxgOOvfGPa0MzjVc+
+uvXppozF8far+e+GBZy2X8zxC4fjq/dnLa27ODu4Ic4TTiWVHL15uK5wrHHM2G36
+PC74xsJ7z5xc1TG8umfXlwV8Y5o32Hv+tx2M683Fb+8LY8zZVQfK1s+nxr4+aKwv
+Nm09XZk9aekimleaBvtfctTW+Eevh96bGBrtrM/A/T7TlsxLxOXo3IIPr8yZfpLv
+T5LT2/Nr93n/TM3I+c402nJE1eZzC056s7G4oI2e2nVrunpqBgzd0fn1VY0/9hwz
+5E2c6OJ3/Kt8te3gmal21Bo2uGbLrm98rzWdv/2UL7G07q0l+8jvF83mj1cOLLkK
+t9bcO2pPtHoH6suDk6dzKvcyA/3PJxV/dvX9WV8rfa42zI2PC85A6tymdEd8kHf2
+g+3tzU0RLS13Sp8esSR0N1QF/J3X93TKvv8AmprEFA==
+=EtQn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/drowolath
+
+==================================================================
